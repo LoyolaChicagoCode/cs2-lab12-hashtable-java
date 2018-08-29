@@ -1,4 +1,4 @@
-# COMP 271 002 F17 Lab 9 (Week 11)
+# Loyla COMP 271 Lab 9
 
 # Team project
 
