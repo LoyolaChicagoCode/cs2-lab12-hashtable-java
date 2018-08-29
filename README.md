@@ -1,4 +1,4 @@
-# Loyla COMP 271 Lab 9
+# Loyola COMP 271 Lab 9
 
 # Individual project
 
