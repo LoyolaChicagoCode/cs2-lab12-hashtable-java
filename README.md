@@ -1,8 +1,9 @@
 # Loyla COMP 271 Lab 9
 
-# Team project
+# Individual project
 
-Work in teams of two.
+Collaborate with your classmates on a conceptual level but do not share code.
+Submit individually.
 
 # Objectives
 
