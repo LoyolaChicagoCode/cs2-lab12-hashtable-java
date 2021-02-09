@@ -1,6 +1,6 @@
-# Loyola COMP 271 Lab 11
+# Loyola COMP 271 Lab 12: hash table implementation
 
-# Individual project
+## Individual activity
 
 Collaborate with your teammates but submit individually. 
 Clearly list the members of your team.
