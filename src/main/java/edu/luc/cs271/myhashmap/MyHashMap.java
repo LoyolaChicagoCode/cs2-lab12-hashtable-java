@@ -23,7 +23,7 @@ public class MyHashMap<K, V> implements Map<K, V> {
     // allocate a table of the given size
     table = new ArrayList<>(tableSize);
     // then create an empty chain at each position
-    for (int i = 0; i < tableSize; i += 1) {
+    for (var i = 0; i < tableSize; i += 1) {
       table.add(new LinkedList<>());
     }
   }
@@ -80,11 +80,11 @@ public class MyHashMap<K, V> implements Map<K, V> {
   @Override
   public V remove(final Object key) {
     final int index = calculateIndex(key);
-    final Iterator<Entry<K, V>> iter = table.get(index).iterator();
+    final var iter = table.get(index).iterator();
     while (iter.hasNext()) {
-      final Entry<K, V> entry = iter.next();
+      final var entry = iter.next();
       if (entry.getKey().equals(key)) {
-        final V oldValue = entry.getValue();
+        final var oldValue = entry.getValue();
         iter.remove();
         return oldValue;
       }
