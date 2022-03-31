@@ -47,17 +47,17 @@ Specifically:
     - What is the time complexity of `MyHashMap.size()`, and how could you make it much more efficient?
     - How does this implementation compare to one where you would directly use your linked `Node` class from the earlier assignment? Answer briefly in terms of ease of implementation, correctness, reliability, and performance.
 
+# Grading (SP22 - total 3.5 points)
 
-# Grading (SP21)
+- 0.5 correct project structure (based on Maven)
+- 0.5 submission via GitHub (including multiple commits over time)
+- 1.5 completion of items marked TODO in `src/main` and correct behavior
+- 1 written part
+    - 0.8 responses to the questions above
+    - 0.2 grammar, style, formatting
 
-- 3 completion of items marked TODO in `src/main` and correct behavior
-- 2 written part
-    - 1.5 responses to the questions above
-    - 0.5 grammar, style, formatting
 
-*5 points TOTAL*
-
-# Grading (future sections)
+# Grading (total 5 points)
 
 - 0.5 correct project structure (based on Maven)
 - 0.5 submission via GitHub (including multiple commits over time)
@@ -65,5 +65,3 @@ Specifically:
 - 1.5 written part
     - 1.2 responses to the questions above
     - 0.3 grammar, style, formatting
-
-*5 points TOTAL*
